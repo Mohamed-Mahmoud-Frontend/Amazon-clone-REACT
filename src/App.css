@@ -1,0 +1,21 @@
+body{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    background-color:rgb(234, 237, 237) ;
+}
+.loader{
+    display: flex;   
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    }
+*{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+flex-direction: column; 
+    background-image: linear-gradient(to right #5a8bf7, #ff0037f1);
+}
+
